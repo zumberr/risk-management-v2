@@ -1,0 +1,21 @@
+$ cd /workspace/shadcn-ui && pnpm add lucide-react
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 51, reused 51, downloaded 0, added 0
+Progress: resolved 219, reused 219, downloaded 0, added 0
+ WARN  1 deprecated subdependencies found: rollup-plugin-terser@7.0.2
+Already up to date
+Progress: resolved 521, reused 445, downloaded 0, added 0
+Progress: resolved 521, reused 445, downloaded 0, added 0, done
+
+Done in 5.8s
+$ cd /workspace/shadcn-ui && pnpm add @radix-ui/react-progress
+
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 59, reused 59, downloaded 0, added 0
+Progress: resolved 254, reused 254, downloaded 0, added 0
+ WARN  1 deprecated subdependencies found: rollup-plugin-terser@7.0.2
+Already up to date
+Progress: resolved 521, reused 445, downloaded 0, added 0
+Progress: resolved 521, reused 445, downloaded 0, added 0, done
+
+Done in 5.8s
